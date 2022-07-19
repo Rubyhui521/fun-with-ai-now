@@ -1,5 +1,10 @@
 # fun-with-ai-now
 
+## web app url
+```
+https://fun-with-ai-now.herokuapp.com/
+```
+
 ## Project setup
 ```
 npm install
