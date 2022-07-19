@@ -1,6 +1,6 @@
 # fun-with-ai-now
 
-## web app url
+## Web app url
 ```
 https://fun-with-ai-now.herokuapp.com/
 ```
